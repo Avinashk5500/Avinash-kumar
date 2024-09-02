@@ -11,3 +11,4 @@ You can click the Preview link to take a look at your changes.
 ![Leetcode Stats](https://leetcard.jacoblin.cool/avinash_k5500?theme=nord)
 
 https://www.linkedin.com/in/avinash-kumar-80bb292b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+https://www.geeksforgeeks.org/user/ak3982u8f/
